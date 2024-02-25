@@ -1,5 +1,4 @@
 # CRUD Estudiantes
-Autor: Víctor Daniel Cuesta Moltó
 La aplicación muestra un listado de estudiantes traídos de una base de datos no relacional de Firebase.
 
 ### Funcionalidad de la aplicación
